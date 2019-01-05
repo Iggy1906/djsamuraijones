@@ -1,0 +1,55 @@
+html {
+  /*height: 100%;*/
+}
+
+
+
+/*header-space*/
+
+.header {
+/*  position: fixed;*/
+  height: 50px;
+  width: 100%;
+  background-color: rgba(153,153,153,1);
+  margin-top: 0px;
+  margin-bottom: 30px;
+
+}
+
+/*navigation*/
+#nav-bar ul {
+  list-style: none;
+  width: 200px;
+  height: 20px;
+  background-color:rgba(255, 0, 0, 0.5);
+  float: right;
+}
+
+#nav-bar ul li {
+  float: left;
+}
+
+#nav-bar ul li a {
+  text-decoration: none;
+  color: rgba(0,0,0,10);
+}
+
+/*body*/
+body {
+  background-color: rgba(204,0,153,0.2);
+
+}
+
+.home {
+  background-color: rgba(51,0,102,1);
+  margin-top: 30px;
+}
+
+.bio {
+  background-color: rgba(0,102,0,1);
+  margin-top: 30px;
+}
+
+.mixes {
+    background-color: rgba(255,255,0,1)
+}
