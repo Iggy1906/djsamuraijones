@@ -1,0 +1,22 @@
+{
+  "name": "djsamuraijones",
+  "homepage": "https://github.com/Iggy1906/djsamuraijones",
+  "authors": [
+    "Ingram Jones <ingramjones1906@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "font-awesome": "^5.6.3"
+  }
+}
